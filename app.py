@@ -15,6 +15,7 @@ def index():
 def clean_file():
 
     verbatim_name = request.form.get('verbatim-name')
+    verbatim_element = request.form.get('verbatim-element')
 
     file = request.files['file']
 
@@ -26,11 +27,10 @@ def clean_file():
       df = pd.read_excel(file)
 
     if verbatim_name:
-      df.dropna(inplace=True)
-
+      df=df.assign(scientificName = "")
     
-
-
+    if verbatim_element:
+      df=df.assign(element = "")
 
 
     
