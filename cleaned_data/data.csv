@@ -1,0 +1,929 @@
+,verbatimScientificName,verbatimElement,scientificName,element,elementID
+0,Sylvilagus sp.,atlas,Sylvilagus,,
+1,Sylvilagus sp.,astragalus,Sylvilagus,plastron: xiphiplastron,UBERON:0011661
+2,Sylvilagus sp.,dentary,Sylvilagus,dentary,UBERON:0004742
+3,Artiodactyla,lumbar vertebra,Artiodactyla,,
+4,Bos taurus,phalanx,Bos taurus,phalanx,UBERON:0003221
+5,Bos taurus,molar,Bos taurus,molar,UBERON:0003655
+6,"Mammal, Large",,Mammalia,,
+7,Mammal,,Mammalia,,
+8,Aves,phalanges,Aves,,
+9,Gavia immer,humerus,Gavia immer,humerus,UBERON:0000976
+10,Testudines,,Testudines,,
+11,Testudines,,Testudines,,
+12,Kinosternon sp.,epi-hyoplastron,Kinosternon,,
+13,Kinosternon sp.,pleural 2,Kinosternon,,
+14,Kinosternon sp.,pleural 3,Kinosternon,,
+15,Kinosternon sp.,pleural 2,Kinosternon,,
+16,Kinosternon sp.,"peripheral, 5",Kinosternon,,
+17,Kinosternon sp.,neural (?2 or 3),Kinosternon,,
+18,Colubridae,vertebra,Colubridae,vertebra,UBERON:0002412
+19,Carcharhinidae,tooth,Carcharhinidae,tooth,UBERON:0001091
+20,Clupeidae,vertebrae,Clupeidae,vertebra,UBERON:0002412
+21,Ariidae,neurocranium,Ariidae,,
+22,Ariidae,vertebrae,Ariidae,vertebra,UBERON:0002412
+23,Ariidae,vertebra,Ariidae,vertebra,UBERON:0002412
+24,Ariidae,cleithrum,Ariidae,,
+25,Sciaenidae,vertebrae,Sciaenidae,vertebra,UBERON:0002412
+26,Sciaenidae cf Cynoscion,operculum,Cynoscion,,
+27,Sciaenidae cf Cynoscion,vertebra,Cynoscion,vertebra,UBERON:0002412
+28,Pogonias cromis,infrapharyngeal grinder,Pogonias cromis,,
+29,Pogonias cromis,tooth,Pogonias cromis,tooth,UBERON:0001091
+30,Sciaenops ocellata,infrapharyngeal grinder,Sciaenops ocellatus,,
+31,Sciaenops ocellata,dentary,Sciaenops ocellatus,dentary,UBERON:0004742
+32,Sciaenops ocellata,articular,Sciaenops ocellatus,,
+33,Archosargus sp.,premaxilla,Archosargus,,
+34,Archosargus sp.,premaxilla,Archosargus,,
+35,Archosargus sp.,?articular,Archosargus,,
+36,Archosargus sp.,vertebrae,Archosargus,vertebra,UBERON:0002412
+37,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+38,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+39,Paralichthys sp.,vertebrae,Paralichthys,vertebra,UBERON:0002412
+40,Paralichthys sp.,premaxilla,Paralichthys,,
+41,Paralichthys sp.,dentary/premaxilla,Paralichthys,,
+42,Paralichthys sp.,,Paralichthys,,
+43,Unidentified fish,,,,
+44,Unidentified fish,,,,
+45,Unidentified fish,scales,,scale,UBERON:0002542
+46,Unidentified,,Animalia,,
+47,Unidentified,,Animalia,,
+48,Mammal,,Mammalia,,
+49,Ariidae,vertebra,Ariidae,vertebra,UBERON:0002412
+50,Sparidae,premaxilla,Sparidae,,
+51,Unidentified fish,,,,
+52,Testudines,,Testudines,,
+53,Ariidae,neurocranium,Ariidae,,
+54,Ariidae,pectoral spine,Ariidae,spine: pectoral,UBERON:2001787
+55,Mugil sp.,vertebra,Mugil,vertebra,UBERON:0002412
+56,Paralichthys sp.,vertebrae,Paralichthys,vertebra,UBERON:0002412
+57,Unidentified fish,,,,
+58,Unidentified fish,scales,,scale,UBERON:0002542
+59,Unidentified,,Animalia,,
+60,Unidentified,,Animalia,,
+61,Mammal,,Mammalia,,
+62,Mammal,,Mammalia,,
+63,Testudines,,Testudines,,
+64,Unidentified fish,,,,
+65,Unidentified fish,,,,
+66,Ariidae,neurocranium,Ariidae,,
+67,Ariidae,cleithrum,Ariidae,,
+68,Bagre marinus,pectorial spine,Bagre marinus,,
+69,Bagre marinus,neurocranium,Bagre marinus,,
+70,Carangidae,pneumatics,Carangidae,,
+71,Pogonias cromis,teeth,Pogonias cromis,tooth,UBERON:0001091
+72,Sparidae,articular,Sparidae,,
+73,Sparidae,maxillary,Sparidae,,
+74,Mugil sp.,vertebra,Mugil,vertebra,UBERON:0002412
+75,Trichiurus sp.,neurocranium,Trichiurus,,
+76,Trichiurus sp.,dentary,Trichiurus,dentary,UBERON:0004742
+77,Paralichthys sp.,vertebrae,Paralichthys,vertebra,UBERON:0002412
+78,Paralichthys sp.,coracoid,Paralichthys,coracoid,UBERON:0004743
+79,Paralichthys sp.,cervical vertebra,Paralichthys,,
+80,Unidentified,,Animalia,,
+81,"Mammalia, Large",,Mammalia,,
+82,Mammal,,Mammalia,,
+83,Sylvilagus sp.,astragalus,Sylvilagus,plastron: xiphiplastron,UBERON:0011661
+84,Sylvilagus sp.,cervical vertebra,Sylvilagus,,
+85,Sylvilagus sp.,ulna,Sylvilagus,ulna,UBERON:0001424
+86,Aves,coracoid,Aves,coracoid,UBERON:0004743
+87,Testudines,,Testudines,,
+88,Testudines,,Testudines,,
+89,Chrysemys sp.,peripheral,Chrysemys,,
+90,Terrapene sp.,peripheral,Terrapene,,
+91,Terrapene sp.,epiplastron,Terrapene,plastron: epiplastron,UBERON:0011658
+92,Unidentified snake,vertebra,Serpentes,vertebra,UBERON:0002412
+93,Unidentified fish,,,,
+94,Unidentifed fish,,Osteichthyes,,
+95,Clupeidae,vertebrae,Clupeidae,vertebra,UBERON:0002412
+96,Clupeidae,vertebrae,Clupeidae,vertebra,UBERON:0002412
+97,Ariidae,neurocranium,Ariidae,,
+98,Ariidae,vertebrae,Ariidae,vertebra,UBERON:0002412
+99,Ariidae,1st-6th fused vertebra,Ariidae,,
+100,Ariidae,cleithrum,Ariidae,,
+101,Ariidae,pectorial spine,Ariidae,,
+102,Ariidae,,Ariidae,,
+103,Caranx sp.,vertebra,Caranx,vertebra,UBERON:0002412
+104,Caranx sp.,pneumatics,Caranx,,
+105,Sparidae,articular,Sparidae,,
+106,Sparidae,articular,Sparidae,,
+107,Sparidae,maxillary,Sparidae,,
+108,Sparidae,operculum,Sparidae,,
+109,Sparidae,maxillary,Sparidae,,
+110,Archosargus sp.,premaxilla,Archosargus,,
+111,Micropogon undulatus,otoliths,Micropogon undulatus,,
+112,Micropogon undulatus,premaxilla,Micropogon undulatus,,
+113,Pogonias cromis,teeth,Pogonias cromis,tooth,UBERON:0001091
+114,Sciaenops ocellata,otolith,Sciaenops ocellatus,,
+115,Mugil sp.,hyomandibulars,Mugil,,
+116,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+117,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+118,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+119,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+120,Trichiurus sp.,articulars,Trichiurus,,
+121,Trichiurus sp.,dentary/premaxilla,Trichiurus,,
+122,Trichiurus sp.,teeth,Trichiurus,tooth,UBERON:0001091
+123,Paralichthys sp.,vertebrae,Paralichthys,vertebra,UBERON:0002412
+124,Paralichthys sp.,premaxilla,Paralichthys,,
+125,Paralichthys sp.,cervical vertebrae,Paralichthys,vertebra: cervical,UBERON:0002413
+126,Chondricthys,vertebra,Chondrichthyes,vertebra,UBERON:0002412
+127,Dasyatidae,vertebra,Dasyatidae,vertebra,UBERON:0002412
+128,Unidentified,,Animalia,,
+129,Unidentified,,Animalia,,
+130,Mammal,phalanx,Mammalia,phalanx,UBERON:0003221
+131,Rodentia,"incisor, mandibular",Rodentia,,
+132,Rodentia,"femur, diaphysis",Rodentia,,
+133,Artiodactyla,tooth,Artiodactyla,tooth,UBERON:0001091
+134,Artiodactyla,metapodial epiphysis,Artiodactyla,,
+135,Aves,carpometacarpus,Aves,,
+136,Testudines,,Testudines,,
+137,Unidentified fish,,,,
+138,Unidentified fish,,,,
+139,Clupeidae,vertebra,Clupeidae,vertebra,UBERON:0002412
+140,Ariidae,neurocranium,Ariidae,,
+141,Ariidae,post temporal,Ariidae,,
+142,Caranx sp.,pneumatics,Caranx,,
+143,Archosargus sp.,articular,Archosargus,,
+144,Archosargus sp.,atlas,Archosargus,,
+145,Micropogon undulatus,otolith,Micropogon undulatus,,
+146,Sciaenops ocellata,premaxilla,Sciaenops ocellatus,,
+147,Mugil sp.,hyomandibulars,Mugil,,
+148,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+149,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+150,Trichiurus sp.,tooth,Trichiurus,tooth,UBERON:0001091
+151,Trichiurus sp.,dentary/premaxilla,Trichiurus,,
+152,Paralichthys sp.,vertebrae,Paralichthys,vertebra,UBERON:0002412
+153,Paralichthys sp.,vertebrae,Paralichthys,vertebra,UBERON:0002412
+154,Paralichthys sp.,dentary/premaxilla,Paralichthys,,
+155,Paralichthys sp.,maxillary,Paralichthys,,
+156,Sylvilagus sp.,vertebrae,Sylvilagus,vertebra,UBERON:0002412
+157,Testudines,pleural,Testudines,,
+158,Testudines,vertebrae,Testudines,vertebra,UBERON:0002412
+159,Unidentified fish,,,,
+160,Unidentified fish,,,,
+161,Clupeidae,atlas,Clupeidae,,
+162,Clupeidae,vertebrae,Clupeidae,vertebra,UBERON:0002412
+163,Ariidae,neurocranium,Ariidae,,
+164,Ariidae,cleithrum,Ariidae,,
+165,Bagre marinus,cleithrum,Bagre marinus,,
+166,Bagre marinus,pectoral spine,Bagre marinus,spine: pectoral,UBERON:2001787
+167,Caranx sp.,cleithrum pneumatic,Caranx,,
+168,Caranx sp.,pneumatics,Caranx,,
+169,Archosargus sp.,articular,Archosargus,,
+170,Archosargus sp.,operculum,Archosargus,,
+171,Cynoscion sp.,dentary,Cynoscion,dentary,UBERON:0004742
+172,Cynoscion sp.,premaxilla,Cynoscion,,
+173,Cynoscion sp.,quadrate,Cynoscion,,
+174,Micropogon undulatus,premaxilla,Micropogon undulatus,,
+175,Micropogon undulatus,premaxilla,Micropogon undulatus,,
+176,Micropogon undulatus,preoperculum,Micropogon undulatus,,
+177,Micropogon undulatus,maxillary,Micropogon undulatus,,
+178,Micropogon undulatus,maxillary,Micropogon undulatus,,
+179,Micropogon undulatus,articular,Micropogon undulatus,,
+180,Micropogon undulatus,atlas,Micropogon undulatus,,
+181,Sciaenops ocellata,otolith,Sciaenops ocellatus,,
+182,Sciaenops ocellata,dentary,Sciaenops ocellatus,dentary,UBERON:0004742
+183,Sciaenops ocellata,maxillary,Sciaenops ocellatus,,
+184,Sciaenops ocellata,coracord,Sciaenops ocellatus,,
+185,Mugil sp.,hyomandibular,Mugil,,
+186,Mugil sp.,hyomandibulars,Mugil,,
+187,Mugil sp.,operculae,Mugil,,
+188,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+189,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+190,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+191,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+192,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+193,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+194,Trichiurus sp.,neurocranium,Trichiurus,,
+195,Trichiurus sp.,dentary,Trichiurus,dentary,UBERON:0004742
+196,Trichiurus sp.,dentary,Trichiurus,dentary,UBERON:0004742
+197,Trichiurus sp.,premaxilla,Trichiurus,,
+198,Trichiurus sp.,premaxilla,Trichiurus,,
+199,Trichiurus sp.,premaxilla,Trichiurus,,
+200,Trichiurus sp.,dentary,Trichiurus,dentary,UBERON:0004742
+201,Trichiurus sp.,teeth,Trichiurus,tooth,UBERON:0001091
+202,Trichiurus sp.,hyomandibular,Trichiurus,,
+203,Trichiurus sp.,hyomandibular,Trichiurus,,
+204,Trichiurus sp.,operculae,Trichiurus,,
+205,Trichiurus sp.,articular,Trichiurus,,
+206,Trichiurus sp.,articular,Trichiurus,,
+207,Trichiurus sp.,maxillary,Trichiurus,,
+208,Trichiurus sp.,quadrate,Trichiurus,,
+209,Paralichthys sp.,cervical vertebra,Paralichthys,,
+210,Paralichthys sp.,premaxilla,Paralichthys,,
+211,Paralichthys sp.,premaxilla,Paralichthys,,
+212,Paralichthys sp.,maxilla,Paralichthys,,
+213,Paralichthys sp.,maxilla,Paralichthys,,
+214,Paralichthys sp.,vertebrae,Paralichthys,vertebra,UBERON:0002412
+215,Paralichthys sp.,articular,Paralichthys,,
+216,Opsanus sp.,dentary,Opsanus,dentary,UBERON:0004742
+217,Opsanus sp.,quadrate,Opsanus,,
+218,Opsanus sp.,,Opsanus,,
+219,Sylvilagus sp.,dentary,Sylvilagus,dentary,UBERON:0004742
+220,Sylvilagus sp.,humerus,Sylvilagus,humerus,UBERON:0000976
+221,Sylvilagus sp.,sacrum,Sylvilagus,,
+222,Sylvilagus sp.,lumbar vertebra,Sylvilagus,,
+223,Sylvilagus sp.,thoracic vertebra,Sylvilagus,,
+224,Sylvilagus sp.,radius,Sylvilagus,radius,UBERON:0001423
+225,Sylvilagus sp.,tooth,Sylvilagus,tooth,UBERON:0001091
+226,Sylvilagus sp.,ulna,Sylvilagus,ulna,UBERON:0001424
+227,Artiodactyla,vertebrae,Artiodactyla,vertebra,UBERON:0002412
+228,Aves,sacral,Aves,,
+229,Aves,carpometacarpal,Aves,,
+230,Rallidae,sternum,Rallidae,sternum,UBERON:0000975
+231,Rallidae,sternum,Rallidae,sternum,UBERON:0000975
+232,Rallidae,furculum,Rallidae,,
+233,Testudines,,Testudines,,
+234,Testudinidae c. Gopherus,ilium,Gopherus,innominate: ilium,UBERON:0001273
+235,Chelonidae,pleural,Cheloniidae,,
+236,Unidentified fish,,,,
+237,Unidentified fish,,,,
+238,Clupeidae,atlas,Clupeidae,,
+239,Clupeidae,vertebrae,Clupeidae,vertebra,UBERON:0002412
+240,Elops saurus,vertebra,Elops saurus,vertebra,UBERON:0002412
+241,Ariidae,neurocranium,Ariidae,,
+242,Arridae,vertebra,Ariidae,vertebra,UBERON:0002412
+243,Arridae,dorsal spine,Ariidae,spine: dorsal,UBERON:2002261
+244,Arridae,small cleithra,Ariidae,,
+245,Arridae,post temporal,Ariidae,,
+246,Carangidae,pneumatics,Carangidae,,
+247,Archosargus sp.,dentary,Archosargus,dentary,UBERON:0004742
+248,Archosargus sp.,dentary,Archosargus,dentary,UBERON:0004742
+249,Archosargus sp.,premaxilla,Archosargus,,
+250,Archosargus sp.,hyomandibular,Archosargus,,
+251,Archosargus sp.,maxilla,Archosargus,,
+252,Cynoscion sp.,quadrate,Cynoscion,,
+253,Cynoscion sp.,vertebrae,Cynoscion,vertebra,UBERON:0002412
+254,Micropogon undulatus,otolith,Micropogon undulatus,,
+255,Micropogon undulatus,otolith,Micropogon undulatus,,
+256,Micropogon undulatus,premaxilla,Micropogon undulatus,,
+257,Micropogon undulatus,hyomandibular,Micropogon undulatus,,
+258,Micropogon undulatus,maxilla,Micropogon undulatus,,
+259,Micropogon undulatus,operculum,Micropogon undulatus,,
+260,Micropogon undulatus,atlas,Micropogon undulatus,,
+261,Micropogon undulatus,articulars,Micropogon undulatus,,
+262,Micropogon undulatus,premaxilla,Micropogon undulatus,,
+263,Pogonias cromis,grinder,Pogonias cromis,,
+264,Sciaenops ocellata,otolith,Sciaenops ocellatus,,
+265,Mugil sp.,hyomandibular,Mugil,,
+266,Mugil sp.,hyomandibular,Mugil,,
+267,Mugil sp.,operculum,Mugil,,
+268,Mugil sp.,operculum,Mugil,,
+269,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+270,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+271,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+272,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+273,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+274,Trichiurus sp.,hyomandibulars,Trichiurus,,
+275,Trichiurus sp.,quadrates,Trichiurus,,
+276,Trichiurus sp.,articulars,Trichiurus,,
+277,Trichiurus sp.,dentary,Trichiurus,dentary,UBERON:0004742
+278,Trichiurus sp.,dentary,Trichiurus,dentary,UBERON:0004742
+279,Trichiurus sp.,premaxilla,Trichiurus,,
+280,Trichiurus sp.,premaxilla,Trichiurus,,
+281,Trichiurus sp.,neurocranium,Trichiurus,,
+282,Trichiurus sp.,dentary/premaxilla,Trichiurus,,
+283,Trichiurus sp.,teeth,Trichiurus,tooth,UBERON:0001091
+284,Trichiurus sp.,atlas,Trichiurus,,
+285,Paralichthys sp.,vertebrae,Paralichthys,vertebra,UBERON:0002412
+286,Paralichthys sp.,vertebrae,Paralichthys,vertebra,UBERON:0002412
+287,Paralichthys sp.,cervical vertebrae,Paralichthys,vertebra: cervical,UBERON:0002413
+288,Paralichthys sp.,maxillary,Paralichthys,,
+289,Paralichthys sp.,maxillary,Paralichthys,,
+290,Paralichthys sp.,premaxilla,Paralichthys,,
+291,Paralichthys sp.,premax/dentary,Paralichthys,,
+292,Paralichthys sp.,quadrate,Paralichthys,,
+293,Paralichthys sp.,dentary,Paralichthys,dentary,UBERON:0004742
+294,Dasyatidae,vertebra,Dasyatidae,vertebra,UBERON:0002412
+295,Unidentified,,Animalia,,
+296,Unidentified,,Animalia,,
+297,Crassostrea,valve,Crassostrea,valve,
+298,Crassostrea,valve,Crassostrea,valve,
+299,Crassostrea,,Crassostrea,,
+300,Crassostrea,,Crassostrea,,
+301,Crassostrea,,Crassostrea,,
+302,Crassostrea,,Crassostrea,,
+303,Mercenaria spp.,valve,Mercenaria,valve,
+304,Mercenaria spp.,valve,Mercenaria,valve,
+305,Mercenaria spp.,,Mercenaria,,
+306,Mercenaria spp.,,Mercenaria,,
+307,Tagelus plebius,valve,Tagelus plebeius,valve,
+308,Tagelus plebius,valve,Tagelus plebeius,valve,
+309,Tagelus plebius,,Tagelus plebeius,,
+310,Tagelus plebius,,Tagelus plebeius,,
+311,Geukeusia demissa,valve,Geukensia demissa,valve,
+312,Ilyanassa sp.,shells,Ilyanassa,,
+313,Emydidae,,Emydidae,,
+314,Emydidae,,Emydidae,,
+315,Unidentified fish,,,,
+316,Ariidae,neurocranium,Ariidae,,
+317,Ariidae,vertebra,Ariidae,vertebra,UBERON:0002412
+318,Caranx sp.,dentary,Caranx,dentary,UBERON:0004742
+319,Mugil sp.,vertebra,Mugil,vertebra,UBERON:0002412
+320,Mugil sp.,?atlas,Mugil,,
+321,Trichiurus sp.,articular,Trichiurus,,
+322,Trichiurus sp.,dentary/premaxilla,Trichiurus,,
+323,Paralichthys sp.,vertebrae,Paralichthys,vertebra,UBERON:0002412
+324,Unidentified,,Animalia,,
+325,Unidentified fish,,,,
+326,Unidentified fish,,,,
+327,Caranx sp.,operculum,Caranx,,
+328,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+329,Mammal,metatarsals/metacarpals,Mammalia,,
+330,Mammal,,Mammalia,,
+331,Sylvilagus sp.,humerus,Sylvilagus,humerus,UBERON:0000976
+332,Sylvilagus sp.,maxillary,Sylvilagus,,
+333,Sus scrofa,P2,Sus scrofa,,
+334,Aves,carpometacarpus,Aves,,
+335,Aves,phalanx,Aves,phalanx,UBERON:0003221
+336,Testudines,,Testudines,,
+337,Testudines,,Testudines,,
+338,Chelonidae,marginal,Cheloniidae,carapace: peripheral,UBERON:0011666
+339,Gopherus polyphemus,coracord,Gopherus polyphemus,,
+340,Gopherus polyphemus,scapula,Gopherus polyphemus,scapula,UBERON:0006849
+341,Gopherus polyphemus,epiplastron,Gopherus polyphemus,plastron: epiplastron,UBERON:0011658
+342,Gopherus polyphemus,pleural,Gopherus polyphemus,,
+343,Gopherus polyphemus,plastron,Gopherus polyphemus,plastron,UBERON:0008276
+344,Gopherus polyphemus,pleural,Gopherus polyphemus,,
+345,Unidentified snake,vertebral,Serpentes,,
+346,Unidentified fish,,,,
+347,Unidentified fish,,,,
+348,Clupeidae,atlases,Clupeidae,,
+349,Clupeidae,vertebrae,Clupeidae,vertebra,UBERON:0002412
+350,Elops saurus,vertebra,Elops saurus,vertebra,UBERON:0002412
+351,Ariidae,otolith,Ariidae,,
+352,Ariidae,basioccipitals,Ariidae,,
+353,Ariidae,spine articular,Ariidae,,
+354,Ariidae,neurocranium,Ariidae,,
+355,Ariidae,vertebrae,Ariidae,vertebra,UBERON:0002412
+356,Ariidae,cleithrum,Ariidae,,
+357,Ariidae,articular,Ariidae,,
+358,Arridae,post-temporals,Ariidae,,
+359,Arridae,coracord,Ariidae,,
+360,Bagre marinus,neurocranium,Bagre marinus,,
+361,Carangidae,pneumatics,Carangidae,,
+362,Carangidae,cleithrum pneumatics,Carangidae,,
+363,Carangidae,large pneumatic,Carangidae,,
+364,Carangidae,vertebrae,Carangidae,vertebra,UBERON:0002412
+365,Caranx sp.,vomer,Caranx,,
+366,Caranx sp.,maxilla,Caranx,,
+367,Caranx sp.,operculum,Caranx,,
+368,Caranx sp.,quadrate,Caranx,,
+369,Caranx sp.,dentary,Caranx,dentary,UBERON:0004742
+370,Caranx sp.,dentary,Caranx,dentary,UBERON:0004742
+371,Caranx sp.,premaxilla,Caranx,,
+372,Caranx sp.,premaxilla,Caranx,,
+373,Caranx sp.,premaxilla,Caranx,,
+374,Archosargus sp.,preoperculum,Archosargus,,
+375,Archosargus sp.,maxilla,Archosargus,,
+376,Archosargus sp.,hyomandibular,Archosargus,,
+377,Archosargus sp.,premaxilla,Archosargus,,
+378,Archosargus sp.,operculum,Archosargus,,
+379,Archosargus sp.,articular,Archosargus,,
+380,Archosargus sp.,operculum,Archosargus,,
+381,Bairdiella sp.,atlases,Bairdiella,,
+382,Bairdiella sp.,maxillary,Bairdiella,,
+383,Cynoscion sp.,otolith,Cynoscion,,
+384,Cynoscion sp.,premaxilla,Cynoscion,,
+385,Cynoscion sp.,atlas,Cynoscion,,
+386,Cynoscion sp.,vertebrae,Cynoscion,vertebra,UBERON:0002412
+387,Micropogan sp.,otoliths,Micropogon,,
+388,Micropogan sp.,atlas,Micropogon,,
+389,Micropogan sp.,maxilla,Micropogon,,
+390,Pogonias cromis,teeth,Pogonias cromis,tooth,UBERON:0001091
+391,Pogonias cromis,teeth,Pogonias cromis,tooth,UBERON:0001091
+392,Pogonias cromis,pharyngeal grinder,Pogonias cromis,,
+393,Mugil sp.,hyomandibulars,Mugil,,
+394,Mugil sp.,operculae,Mugil,,
+395,Mugil sp.,vertebra,Mugil,vertebra,UBERON:0002412
+396,Mugil sp.,vertebra,Mugil,vertebra,UBERON:0002412
+397,Mugil sp.,vertebra,Mugil,vertebra,UBERON:0002412
+398,Mugil sp.,vertebra,Mugil,vertebra,UBERON:0002412
+399,Trichiurus sp.,neurocranium,Trichiurus,,
+400,Trichiurus sp.,atlas,Trichiurus,,
+401,Trichiurus sp.,operculum,Trichiurus,,
+402,Trichiurus sp.,vertebrae,Trichiurus,vertebra,UBERON:0002412
+403,Trichiurus sp.,dentary,Trichiurus,dentary,UBERON:0004742
+404,Trichiurus sp.,dentary,Trichiurus,dentary,UBERON:0004742
+405,Trichiurus sp.,tooth,Trichiurus,tooth,UBERON:0001091
+406,Paralichthys sp.,vertebrae,Paralichthys,vertebra,UBERON:0002412
+407,Paralichthys sp.,cervical vertebrae,Paralichthys,vertebra: cervical,UBERON:0002413
+408,Paralichthys sp.,vomer,Paralichthys,,
+409,Paralichthys sp.,articulars,Paralichthys,,
+410,Paralichthys sp.,premaxilla,Paralichthys,,
+411,Paralichthys sp.,premaxilla,Paralichthys,,
+412,Paralichthys sp.,dentary,Paralichthys,dentary,UBERON:0004742
+413,Paralichthys sp.,maxillary,Paralichthys,,
+414,Paralichthys sp.,quadrate,Paralichthys,,
+415,Paralichthys sp.,,Paralichthys,,
+416,Opsanus sp.,?spine,Opsanus,,
+417,Dasyatidae,vertebrae,Dasyatidae,vertebra,UBERON:0002412
+418,Unidentified,,Animalia,,
+419,Unidentified,,Animalia,,
+420,Menippes mercenaria,claw,Menippe mercenaria,,
+421,Aves,tibiotarsus,Aves,,
+422,Gopherus polyphemus,coracord,Gopherus polyphemus,,
+423,Emydidae,,Emydidae,,
+424,Emydidae,,Emydidae,,
+425,Malaclemys terrapin,pleural,Malaclemys terrapin,,
+426,Unidentified fish,,,,
+427,Unidentified fish,,,,
+428,Ariidae,otolith,Ariidae,,
+429,Ariidae,quadrate,Ariidae,,
+430,Arridae,neurocranium,Ariidae,,
+431,Arridae,articular,Ariidae,,
+432,Carangidae,pneumatic,Carangidae,,
+433,Archosargus sp.,premaxilla,Archosargus,,
+434,Archosargus sp.,articular,Archosargus,,
+435,Cynoscion sp.,vertebrae,Cynoscion,vertebra,UBERON:0002412
+436,Micropogan sp.,atlas,Micropogon,,
+437,Pogonias cromis,pharyngeal grinders,Pogonias cromis,,
+438,Sciaenops ocellata,pharyngeal grinder,Sciaenops ocellatus,,
+439,Mugil sp.,operculum,Mugil,,
+440,Mugil sp.,operculum,Mugil,,
+441,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+442,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+443,Trichiurus sp.,atlas,Trichiurus,,
+444,Trichiurus sp.,premaxilla,Trichiurus,,
+445,Trichiurus sp.,premaxilla,Trichiurus,,
+446,Trichiurus sp.,dentary,Trichiurus,dentary,UBERON:0004742
+447,Paralichthys sp.,vertebrae (1),Paralichthys,,
+448,Paralichthys sp.,cervical vertebra,Paralichthys,,
+449,Paralichthys sp.,dentary,Paralichthys,dentary,UBERON:0004742
+450,Paralichthys sp.,maxilla,Paralichthys,,
+451,Paralichthys sp.,maxilla,Paralichthys,,
+452,Paralichthys sp.,premaxilla,Paralichthys,,
+453,Paralichthys sp.,premaxilla,Paralichthys,,
+454,Unidentified,,Animalia,,
+455,Crassostrea sp.,valves,Crassostrea,,
+456,Crassostrea sp.,valves,Crassostrea,,
+457,Crassostrea sp.,,Crassostrea,,
+458,Crassostrea sp.,,Crassostrea,,
+459,Crassostrea sp.,,Crassostrea,,
+460,Crassostrea sp.,,Crassostrea,,
+461,Crassostrea sp.,,Crassostrea,,
+462,Mercenaria sp.,umbo,Mercenaria,,
+463,Mercenaria sp.,umbo,Mercenaria,,
+464,Mercenaria sp.,valve,Mercenaria,valve,
+465,Mercenaria sp.,valve,Mercenaria,valve,
+466,Mercenaria sp.,,Mercenaria,,
+467,Mercenaria sp.,,Mercenaria,,
+468,"Mammal, Large",rib,Mammalia,rib,UBERON:0002228
+469,"Mammal, Large",,Mammalia,,
+470,"Mammal, Large",,Mammalia,,
+471,Mammal,,Mammalia,,
+472,Mammal,,Mammalia,,
+473,Rodentia,femur,Rodentia,femur,UBERON:0000981
+474,Rodentia,radius,Rodentia,radius,UBERON:0001423
+475,Artiodactyla,metapodial,Artiodactyla,metapodial,UBERON:0003821
+476,Artiodactyla,cranial,Artiodactyla,,
+477,Artiodactyla,dental,Artiodactyla,,
+478,Artiodactyla,radius,Artiodactyla,radius,UBERON:0001423
+479,Artiodactyla,vertebra,Artiodactyla,vertebra,UBERON:0002412
+480,Artiodactyla,vertebral,Artiodactyla,,
+481,Artiodactyla,vertebral,Artiodactyla,,
+482,Bos taurus,temporo-zygoma,Bos taurus,,
+483,Bos taurus,metapodial,Bos taurus,metapodial,UBERON:0003821
+484,Bos taurus,cervical vertebra,Bos taurus,,
+485,Bos taurus,scapula,Bos taurus,scapula,UBERON:0006849
+486,Bos taurus,vertebral,Bos taurus,,
+487,Bos taurus,temporal,Bos taurus,,
+488,Bos taurus,sesamoid,Bos taurus,,
+489,Sus scrofa,maxillo-palatine,Sus scrofa,,
+490,Sus scrofa,femur,Sus scrofa,femur,UBERON:0000981
+491,Sus scrofa,radius,Sus scrofa,radius,UBERON:0001423
+492,Sus scrofa,ulna,Sus scrofa,ulna,UBERON:0001424
+493,Sus scrofa,scapula,Sus scrofa,scapula,UBERON:0006849
+494,Sus scrofa,scapula,Sus scrofa,scapula,UBERON:0006849
+495,Sus scrofa,scapula,Sus scrofa,scapula,UBERON:0006849
+496,Sus scrofa,humerus,Sus scrofa,humerus,UBERON:0000976
+497,Sus scrofa,scapula,Sus scrofa,scapula,UBERON:0006849
+498,Sus scrofa,astragalus,Sus scrofa,plastron: xiphiplastron,UBERON:0011661
+499,Sus scrofa,dentary,Sus scrofa,dentary,UBERON:0004742
+500,Sus scrofa,ulna,Sus scrofa,ulna,UBERON:0001424
+501,Sus scrofa,radius,Sus scrofa,radius,UBERON:0001423
+502,Sus scrofa,scapula,Sus scrofa,scapula,UBERON:0006849
+503,Sus scrofa,vertebra,Sus scrofa,vertebra,UBERON:0002412
+504,Sus scrofa,tooth,Sus scrofa,tooth,UBERON:0001091
+505,Sus scrofa,,Sus scrofa,,
+506,Aves,vertebrae,Aves,vertebra,UBERON:0002412
+507,Aves,tibiotarsus,Aves,,
+508,Testudines,,Testudines,,
+509,Chelonidae,radius,Cheloniidae,radius,UBERON:0001423
+510,Anura,humerus,Anura,humerus,UBERON:0000976
+511,Unidentified fish,,,,
+512,Ariidae,neurocranium,Ariidae,,
+513,Ariidae,vertebra,Ariidae,vertebra,UBERON:0002412
+514,Bagre marinus,cleithrum,Bagre marinus,,
+515,Cynoscion sp.,vertebrae,Cynoscion,vertebra,UBERON:0002412
+516,Pogonias cromis,tooth,Pogonias cromis,tooth,UBERON:0001091
+517,Mugil sp.,hyomandibular,Mugil,,
+518,Mugil sp.,hyomandibular,Mugil,,
+519,Mugil sp.,operculum,Mugil,,
+520,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+521,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+522,Paralichthys sp.,vertebrae,Paralichthys,vertebra,UBERON:0002412
+523,Chondrichthys cf. Negaprion,vertebra,Negaprion,vertebra,UBERON:0002412
+524,Carcharhinidae,tooth,Carcharhinidae,tooth,UBERON:0001091
+525,Unidentified,,Animalia,,
+526,Unidentified,,Animalia,,
+527,"Mammal, Large",,Mammalia,,
+528,"Mammal, Large",,Mammalia,,
+529,Mammal,,Mammalia,,
+530,Mammal,,Mammalia,,
+531,Bos taurus,Pm2,Bos taurus,,
+532,Bos taurus,pisiform,Bos taurus,,
+533,Sus scrofa,Incisor,Sus scrofa,Incisor,UBERON:0001098
+534,Sus scrofa,Ulna,Sus scrofa,Ulna,UBERON:0001424
+535,Unidentified fish,,,,
+536,Ariidae,basioccipital,Ariidae,,
+537,Arridae,neurocranium,Ariidae,,
+538,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+539,Paralichthys sp.,vertebrae,Paralichthys,vertebra,UBERON:0002412
+540,Chondrichthys,cervical vertebrae,Chondrichthyes,vertebra: cervical,UBERON:0002413
+541,Unidentified,,Animalia,,
+542,Unidentified,,Animalia,,
+543,"Mammal, Large",,Mammalia,,
+544,Mammal,,Mammalia,,
+545,Sus scrofa,tibia,Sus scrofa,tibia,UBERON:0000979
+546,Unidentified fish,,,,
+547,Unidentified,,Animalia,,
+548,Unidentified,,Animalia,,
+549,"Mammal, Large",,Mammalia,,
+550,"Mammal, Large",,Mammalia,,
+551,Mammal,,Mammalia,,
+552,Mammal,,Mammalia,,
+553,Sus scrofa,tibia,Sus scrofa,tibia,UBERON:0000979
+554,Unidentified fish,,,,
+555,Sparidae,articular,Sparidae,,
+556,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+557,Unidentified,,Animalia,,
+558,Unidentified,,Animalia,,
+559,Decapoda,cheliped,Decapoda,,
+560,"Mammal, Large",,Mammalia,,
+561,"Mammal, Large",,Mammalia,,
+562,Mammal,,Mammalia,,
+563,Rattus cf. norvegicus,maxilla,Rattus norvegicus,,
+564,Bos taurus,entocuneiform,Bos taurus,,
+565,Bos taurus,femur,Bos taurus,femur,UBERON:0000981
+566,Bos taurus,tibia,Bos taurus,tibia,UBERON:0000979
+567,Bos taurus,Pm2,Bos taurus,,
+568,Bos taurus,Incisors,Bos taurus,,
+569,Sus scrofa,humerus,Sus scrofa,humerus,UBERON:0000976
+570,Sus scrofa,M3,Sus scrofa,lower M3,UBERON:0018377
+571,Sus scrofa,acetabulum of pelvis,Sus scrofa,,
+572,Testudines,,Testudines,,
+573,Unidentified fish,,,,
+574,Unidentified fish,,,,
+575,Sparidae,preoperculum,Sparidae,,
+576,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+577,Opsanus sp.,hyomandibular,Opsanus,,
+578,Chondrichthys,vertebra,Chondrichthyes,vertebra,UBERON:0002412
+579,Unidentified,,Animalia,,
+580,Unidentified,,Animalia,,
+581,Unidentified,bone button,Animalia,,
+582,Menippes mercenaria,cheliped,Menippe mercenaria,,
+583,"Mammal, Large",rib,Mammalia,rib,UBERON:0002228
+584,"Mammal, Large",,Mammalia,,
+585,"Mammal, Large",,Mammalia,,
+586,Mammal,,Mammalia,,
+587,Bos taurus,femur,Bos taurus,femur,UBERON:0000981
+588,Bos taurus,calcaneus,Bos taurus,tarsal: calcaneus,UBERON:0001450
+589,Bos taurus,tibia,Bos taurus,tibia,UBERON:0000979
+590,Bos taurus,femur,Bos taurus,femur,UBERON:0000981
+591,Bos taurus,"scapula, *",Bos taurus,,
+592,Bos taurus,teeth,Bos taurus,tooth,UBERON:0001091
+593,Sus scrofa,ulna,Sus scrofa,ulna,UBERON:0001424
+594,Sus scrofa,humerus,Sus scrofa,humerus,UBERON:0000976
+595,Unidentified fish,,,,
+596,Sparidae,dentary,Sparidae,dentary,UBERON:0004742
+597,Sciaenidae,vertebrae,Sciaenidae,vertebra,UBERON:0002412
+598,Cynoscion sp.,vertebra,Cynoscion,vertebra,UBERON:0002412
+599,Pogonias cromis,infrapharyngeal,Pogonias cromis,,
+600,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+601,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+602,Unidentified,,Animalia,,
+603,Unidentified,,Animalia,,
+604,"Mammal, Large",,Mammalia,,
+605,"Mammal, Large",,Mammalia,,
+606,Mammal,,Mammalia,,
+607,Rattus sp.,tibiofibula,Rattus,,
+608,Bos taurus,ulna,Bos taurus,ulna,UBERON:0001424
+609,Sus scrofa,canine,Sus scrofa,,
+610,Sus scrofa,scapula,Sus scrofa,scapula,UBERON:0006849
+611,Aves,radius,Aves,radius,UBERON:0001423
+612,Unidentified fish,,,,
+613,Unidentified,,Animalia,,
+614,"Mammalia, Large",,Mammalia,,
+615,"Mammalia, Large",,Mammalia,,
+616,Mammal,,Mammalia,,
+617,Sus scrofa,calcaneus,Sus scrofa,tarsal: calcaneus,UBERON:0001450
+618,Unidentified fish,,,,
+619,Unidentified,,Animalia,,
+620,"Mammal, Large",vertebral centra,Mammalia,,
+621,"Mammal, Large",tooth,Mammalia,tooth,UBERON:0001091
+622,"Mammal, Large",,Mammalia,,
+623,Mammalia,,Mammalia,,
+624,Mammalia,worked bone,Mammalia,,
+625,Rodentia,dentary,Rodentia,dentary,UBERON:0004742
+626,Rodentia,dentary,Rodentia,dentary,UBERON:0004742
+627,Rodentia,distal tibiofibula,Rodentia,,
+628,Bos taurus,M2,Bos taurus,M2,UBERON:0018606
+629,Bos taurus,M2,Bos taurus,M2,UBERON:0018606
+630,Bos taurus,Incisor,Bos taurus,Incisor,UBERON:0001098
+631,Bos taurus,teeth,Bos taurus,tooth,UBERON:0001091
+632,Aves,,Aves,,
+633,Anura,,Anura,,
+634,Bufo sp.,pelvis,Bufo,innominate,UBERON:0001272
+635,Unidentified fish,,,,
+636,Arriidae,vertebra,Ariidae,vertebra,UBERON:0002412
+637,Ariidae,neruocranium,Ariidae,,
+638,Sparidae,operculum,Sparidae,,
+639,Sparidae,maxillary,Sparidae,,
+640,Cynoscion sp.,dentary,Cynoscion,dentary,UBERON:0004742
+641,Pogonias cromis,tooth,Pogonias cromis,tooth,UBERON:0001091
+642,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+643,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+644,Chondrichthys,tooth,Chondrichthyes,tooth,UBERON:0001091
+645,Chondrichthys,vertebrae,Chondrichthyes,vertebra,UBERON:0002412
+646,Unidentified,,Animalia,,
+647,Unidentified,,Animalia,,
+648,"Mammal, Large",rib,Mammalia,rib,UBERON:0002228
+649,"Mammal, Large",vertebral,Mammalia,,
+650,"Mammal, Large",tooth,Mammalia,tooth,UBERON:0001091
+651,"Mammal, Large",,Mammalia,,
+652,Mammal,,Mammalia,,
+653,Aves,femur,Aves,femur,UBERON:0000981
+654,Unidentified fish,,,,
+655,Ariidae,pectoral spine,Ariidae,spine: pectoral,UBERON:2001787
+656,Cynoscion sp.,vertebrae,Cynoscion,vertebra,UBERON:0002412
+657,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+658,Unidentified,,Animalia,,
+659,"Mammal, Large",vertebral,Mammalia,,
+660,"Mammal, Large",,Mammalia,,
+661,Mammal,,Mammalia,,
+662,Mammalia cf. Bos,mandibular,Bos,,
+663,Bos taurus,tooth,Bos taurus,tooth,UBERON:0001091
+664,Unidentified fish,,,,
+665,Unidentified fish,,,,
+666,Ariidae,neurocranium,Ariidae,,
+667,Pogonias cromis,infrapharyngeal grinder,Pogonias cromis,,
+668,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+669,Unidentified,,Animalia,,
+670,"Mammal, Large",,Mammalia,,
+671,"Mammal, Large",,Mammalia,,
+672,"Mammal, Large",,Mammalia,,
+673,"Mammal, Large",tooth,Mammalia,tooth,UBERON:0001091
+674,Mammalia,,Mammalia,,
+675,Mammalia,,Mammalia,,
+676,Mammalia,,Mammalia,,
+677,Rodentia,dentary,Rodentia,dentary,UBERON:0004742
+678,Rodentia,femur,Rodentia,femur,UBERON:0000981
+679,Bos taurus,temporal,Bos taurus,,
+680,Bos taurus,premolar,Bos taurus,,
+681,Bos taurus,tooth,Bos taurus,tooth,UBERON:0001091
+682,Bos taurus,calcaneus,Bos taurus,tarsal: calcaneus,UBERON:0001450
+683,Bufo sp.,pelvis,Bufo,innominate,UBERON:0001272
+684,Unidentified fish,,,,
+685,Ariidae,vertebrae,Ariidae,vertebra,UBERON:0002412
+686,Ariidae,spine,Ariidae,,
+687,Ariidae,cleithrum,Ariidae,,
+688,Ariidae,neurocranium,Ariidae,,
+689,Ariidae,,Ariidae,,
+690,Sparidae,articular,Sparidae,,
+691,Archosargus sp.,premaxilla,Archosargus,,
+692,Cynoscion sp.,vertebra,Cynoscion,vertebra,UBERON:0002412
+693,Pogonias cromis,intrapharyngeal grinder,Pogonias cromis,,
+694,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+695,Mugil sp.,hyomandibular,Mugil,,
+696,Paralichthys sp.,vertebrae,Paralichthys,vertebra,UBERON:0002412
+697,Unidentified,,Animalia,,
+698,"Mammal, Large",,Mammalia,,
+699,"Mammal, Large",rib,Mammalia,rib,UBERON:0002228
+700,"Mammal, Large",tooth,Mammalia,tooth,UBERON:0001091
+701,"Mammal, Large",ampullary bulla,Mammalia,,
+702,Mammal,,Mammalia,,
+703,Mammal,,Mammalia,,
+704,Bos taurus,patella,Bos taurus,,
+705,Bos taurus,femur,Bos taurus,femur,UBERON:0000981
+706,Bos taurus,P2,Bos taurus,,
+707,Bos taurus,astragalus,Bos taurus,plastron: xiphiplastron,UBERON:0011661
+708,Bos taurus,lunar,Bos taurus,carpal: lunate,UBERON:0001428
+709,Bos taurus,cubonavicular,Bos taurus,tarsal: cubonavicular,
+710,Bos taurus,entocuneiform,Bos taurus,,
+711,Bos taurus,magnum,Bos taurus,carpal: magnum,UBERON:0001432
+712,Bos taurus,tooth,Bos taurus,tooth,UBERON:0001091
+713,Bos taurus,tooth,Bos taurus,tooth,UBERON:0001091
+714,Bos taurus,incisor,Bos taurus,,
+715,Bos taurus,scapula,Bos taurus,scapula,UBERON:0006849
+716,Sus scrofa,tooth,Sus scrofa,tooth,UBERON:0001091
+717,Aves,,Aves,,
+718,Testudines,,Testudines,,
+719,Unidentified fish,,,,
+720,Unidentified fish,,,,
+721,Ariidae,neurocranium,Ariidae,,
+722,Bagre marinus,neurocranium,Bagre marinus,,
+723,Sparidae,maxilla,Sparidae,,
+724,Archosargus sp.,operculum,Archosargus,,
+725,Archosargus sp.,hyomandibular,Archosargus,,
+726,Archosargus sp.,premaxilla,Archosargus,,
+727,Archosargus sp.,dentary,Archosargus,dentary,UBERON:0004742
+728,Mugil sp.,vertebra,Mugil,vertebra,UBERON:0002412
+729,Paralichthys sp.,vertebra,Paralichthys,vertebra,UBERON:0002412
+730,Chondrichthys,vertebrae,Chondrichthyes,vertebra,UBERON:0002412
+731,Unidentified,,Animalia,,
+732,Unidentified,,Animalia,,
+733,Menippes sp.,chiliped,Menippe,,
+734,Canis familiaris,premolar,Canis lupus familiaris,,
+735,Bos taurus,scapula,Bos taurus,scapula,UBERON:0006849
+736,Bos taurus,humerus,Bos taurus,humerus,UBERON:0000976
+737,Bos taurus,tibia,Bos taurus,tibia,UBERON:0000979
+738,Bos taurus,tibia,Bos taurus,tibia,UBERON:0000979
+739,Bos taurus,radius,Bos taurus,radius,UBERON:0001423
+740,Bos taurus,acetabulum,Bos taurus,innominate: acetabulum,UBERON:0001272
+741,Bos taurus,scapula,Bos taurus,scapula,UBERON:0006849
+742,Bos taurus,scapula,Bos taurus,scapula,UBERON:0006849
+743,Bos taurus,scapula,Bos taurus,scapula,UBERON:0006849
+744,Bos taurus,radius,Bos taurus,radius,UBERON:0001423
+745,Bos taurus,radius,Bos taurus,radius,UBERON:0001423
+746,Bos taurus,tibia,Bos taurus,tibia,UBERON:0000979
+747,Bos taurus,humerus,Bos taurus,humerus,UBERON:0000976
+748,Bos taurus,M3,Bos taurus,lower M3,UBERON:0018377
+749,Bos taurus,tibia,Bos taurus,tibia,UBERON:0000979
+750,Bos taurus,lunar,Bos taurus,carpal: lunate,UBERON:0001428
+751,Bos taurus,scaphoid,Bos taurus,carpal: scaphoid,UBERON:0001427
+752,Bos taurus,fibula,Bos taurus,fibula,UBERON:0001446
+753,Bos taurus,astragalus,Bos taurus,plastron: xiphiplastron,UBERON:0011661
+754,Bos taurus,astragalus,Bos taurus,plastron: xiphiplastron,UBERON:0011661
+755,Bos taurus,calcaneus,Bos taurus,tarsal: calcaneus,UBERON:0001450
+756,Bos taurus,femur,Bos taurus,femur,UBERON:0000981
+757,Mammal,,Mammalia,,
+758,Mammal,,Mammalia,,
+759,"Mammal, Large",vertebral,Mammalia,,
+760,"Mammal, Large",vertebral,Mammalia,,
+761,"Mammal, Large",vertebral,Mammalia,,
+762,"Mammal, Large",rib,Mammalia,rib,UBERON:0002228
+763,"Mammal, Large",rib,Mammalia,rib,UBERON:0002228
+764,"Mammal, Large",,Mammalia,,
+765,"Mammal, Large",,Mammalia,,
+766,"Aves, unidentified",scapula,Aves,scapula,UBERON:0006849
+767,Anatidae,furiculum,Anatidae,,
+768,Gopherus polyphemus,femur,Gopherus polyphemus,femur,UBERON:0000981
+769,Dasyatidae,vertebra,Dasyatidae,vertebra,UBERON:0002412
+770,Ariidae,basioccupital,Ariidae,,
+771,Bagre marinus,neurocranuim,Bagre marinus,,
+772,Sciaenops sp.,articular,Sciaenops,,
+773,Archosargus sp.,maxillary,Archosargus,,
+774,Archosargus sp.,articular,Archosargus,,
+775,Mugil sp.,hyomandibular,Mugil,,
+776,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+777,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+778,Paralichthys sp.,vertebra,Paralichthys,vertebra,UBERON:0002412
+779,Paralichthys sp.,articular,Paralichthys,,
+780,Unidentified fish,,,,
+781,Unidentified,,Animalia,,
+782,Unidentified,,Animalia,,
+783,"Mammal, Large",,Mammalia,,
+784,"Mammal, Large",,Mammalia,,
+785,"Mammal, Large",rib,Mammalia,rib,UBERON:0002228
+786,"Mammal, Large",vertebral,Mammalia,,
+787,"Mammal, Large",unidentified,Mammalia,unidentified skeletal element,UBERON:0004765
+788,Mammal,,Mammalia,,
+789,Bos taurus,tibia,Bos taurus,tibia,UBERON:0000979
+790,Bos taurus,cubonavicular,Bos taurus,tarsal: cubonavicular,
+791,Bos taurus,lunar,Bos taurus,carpal: lunate,UBERON:0001428
+792,Bos taurus,scaphoid,Bos taurus,carpal: scaphoid,UBERON:0001427
+793,Bos taurus,cuneiform,Bos taurus,tarsal: cuneiform,UBERON:0010721
+794,Bos taurus,astragalus,Bos taurus,plastron: xiphiplastron,UBERON:0011661
+795,Bos taurus,humerus,Bos taurus,humerus,UBERON:0000976
+796,Bos taurus,mandible,Bos taurus,mandible,UBERON:0003278
+797,Bos taurus,radius,Bos taurus,radius,UBERON:0001423
+798,Bos taurus,tooth,Bos taurus,tooth,UBERON:0001091
+799,Sus scrofa,tooth,Sus scrofa,tooth,UBERON:0001091
+800,Sus scrofa,proximal tibia epiphysis,Sus scrofa,,
+801,Ariidae,spine,Ariidae,,
+802,Ariidae,neurocranium,Ariidae,,
+803,Ariidae,vertebra,Ariidae,vertebra,UBERON:0002412
+804,Ariidae,post temporal,Ariidae,,
+805,Sciaenidae,articular,Sciaenidae,,
+806,Cynoscion sp.,otolith,Cynoscion,,
+807,Cynoscion sp.,vertebra,Cynoscion,vertebra,UBERON:0002412
+808,Sparidae,premaxilla,Sparidae,,
+809,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+810,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+811,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+812,Paralichthys sp.,vertebra,Paralichthys,vertebra,UBERON:0002412
+813,Unidentified fish,,,,
+814,Unidentified fish,scale,,scale,UBERON:0002542
+815,Unidentified,,Animalia,,
+816,Bos taurus,humerus,Bos taurus,humerus,UBERON:0000976
+817,Bos taurus,tibia,Bos taurus,tibia,UBERON:0000979
+818,Bos taurus,magnam,Bos taurus,,
+819,Bos taurus,sesamoids,Bos taurus,,
+820,Bos taurus,mandible,Bos taurus,mandible,UBERON:0003278
+821,Bos taurus,ulna,Bos taurus,ulna,UBERON:0001424
+822,Bos taurus,tooth,Bos taurus,tooth,UBERON:0001091
+823,Bos taurus,humerus,Bos taurus,humerus,UBERON:0000976
+824,Bos taurus,astragulus,Bos taurus,,
+825,Bos taurus,Magnum,Bos taurus,Magnum,UBERON:0001432
+826,Bos taurus,unciform,Bos taurus,,
+827,Bos taurus,temporal,Bos taurus,,
+828,Bos taurus,entocuneiform,Bos taurus,,
+829,Bos taurus,lechium,Bos taurus,,
+830,Bos taurus,temporal,Bos taurus,,
+831,Bos taurus,entocuneiform,Bos taurus,,
+832,Bos taurus,Hyoid,Bos taurus,,
+833,Bos taurus,temporal,Bos taurus,,
+834,Bos taurus,premolar,Bos taurus,,
+835,Bos taurus,premolar,Bos taurus,,
+836,Bos taurus,Molar,Bos taurus,Molar,UBERON:0003655
+837,Bos taurus,premolar,Bos taurus,,
+838,Bos taurus,incison,Bos taurus,,
+839,Bos taurus,mandible,Bos taurus,mandible,UBERON:0003278
+840,Bos taurus,mandible,Bos taurus,mandible,UBERON:0003278
+841,Bos taurus,trapezoid,Bos taurus,,
+842,Large Mammal,vertebrae,Mammalia,vertebra,UBERON:0002412
+843,Large Mammal,epiphysial,Mammalia,,
+844,Large Mammal,unidentified,Mammalia,unidentified skeletal element,UBERON:0004765
+845,Large Mammal,rib,Mammalia,rib,UBERON:0002228
+846,Large Mammal,rib,Mammalia,rib,UBERON:0002228
+847,Large Mammal,unidentified,Mammalia,unidentified skeletal element,UBERON:0004765
+848,Large Mammal,mandible,Mammalia,mandible,UBERON:0003278
+849,Large Mammal,skull,Mammalia,,
+850,Mammal,unidentified,Mammalia,unidentified skeletal element,UBERON:0004765
+851,Aves,unidentified,Aves,unidentified skeletal element,UBERON:0004765
+852,Amia Calva,vertebrae,Amia calva,vertebra,UBERON:0002412
+853,Ariidae,fin,Ariidae,,
+854,Mugil sp.,vertebral,Mugil,,
+855,Osteichthyes,unidentified,Osteichthyes,unidentified skeletal element,UBERON:0004765
+856,Didelphis Marsupialis,vertebrae,Didelphis marsupialis,vertebra,UBERON:0002412
+857,Didelphis Marsupialis,molars,Didelphis marsupialis,molar,UBERON:0003655
+858,Didelphis Marsupialis,mandible,Didelphis marsupialis,mandible,UBERON:0003278
+859,Bos taurus,calcaneum,Bos taurus,tarsal: calcaneus,UBERON:0001450
+860,Bos taurus,phalanx,Bos taurus,phalanx,UBERON:0003221
+861,Bos taurus,cubonavicular,Bos taurus,tarsal: cubonavicular,
+862,Bos taurus,Hyoid,Bos taurus,,
+863,Bos taurus,Lunar,Bos taurus,Lunar,UBERON:0001428
+864,Bos taurus,cuneiform,Bos taurus,tarsal: cuneiform,UBERON:0010721
+865,Bos taurus,Fibula,Bos taurus,Fibula,UBERON:0001446
+866,Bos taurus,unciform,Bos taurus,,
+867,Bos taurus,Tibia,Bos taurus,Tibia,UBERON:0000979
+868,Bos taurus,acetabulum,Bos taurus,innominate: acetabulum,UBERON:0001272
+869,Bos taurus,magnum,Bos taurus,carpal: magnum,UBERON:0001432
+870,Bos taurus,Lunar,Bos taurus,Lunar,UBERON:0001428
+871,Bos taurus,scaphoid,Bos taurus,carpal: scaphoid,UBERON:0001427
+872,Bos taurus,Trapezoid,Bos taurus,,
+873,Bos taurus,scapula,Bos taurus,scapula,UBERON:0006849
+874,Bos taurus,Radius and Ulna,Bos taurus,,
+875,Bos taurus,axis,Bos taurus,,
+876,Bos taurus,atlas,Bos taurus,,
+877,Bos taurus,Molar,Bos taurus,Molar,UBERON:0003655
+878,Bos taurus,incison,Bos taurus,,
+879,Sus scrofa,scapula,Sus scrofa,scapula,UBERON:0006849
+880,Sus scrofa,molars,Sus scrofa,molar,UBERON:0003655
+881,Large Mammal,unidentified,Mammalia,unidentified skeletal element,UBERON:0004765
+882,Large Mammal,vertebrae,Mammalia,vertebra,UBERON:0002412
+883,Large Mammal,Ribs,Mammalia,,
+884,Large Mammal,,Mammalia,,
+885,Large Mammal,Phalanx,Mammalia,Phalanx,UBERON:0003221
+886,Mammal,unidentified,Mammalia,unidentified skeletal element,UBERON:0004765
+887,Aves,vertebral,Aves,,
+888,Aves,phalanx,Aves,phalanx,UBERON:0003221
+889,Aves,rib,Aves,rib,UBERON:0002228
+890,Aves,interclavicle,Aves,,
+891,Aves,humerus,Aves,humerus,UBERON:0000976
+892,Aves,tibiotarsal,Aves,,
+893,Aves,ulna,Aves,ulna,UBERON:0001424
+894,Aves,unidentified,Aves,unidentified skeletal element,UBERON:0004765
+895,Gallus gallus,radius,Gallus gallus,radius,UBERON:0001423
+896,Gallus gallus,tibiotarsal,Gallus gallus,,
+897,Gallus gallus,tibiotarsal,Gallus gallus,,
+898,Chelonidae,limb,Cheloniidae,,
+899,Ariidae,vertebrae,Ariidae,vertebra,UBERON:0002412
+900,Ariidae,pectoral,Ariidae,,
+901,Ariidae,otolith,Ariidae,,
+902,Ariidae,corocoid,Ariidae,,
+903,Ariidae,pterygiophore,Ariidae,,
+904,Arius Felis,spine,Arius felis,,
+905,Arius Felis,pectoral,Arius felis,,
+906,Arius Felis,pectoral,Arius felis,,
+907,Arius Felis,cleithrum,Arius felis,,
+908,Arius Felis,cleithrum,Arius felis,,
+909,Arius Felis,vertebral,Arius felis,,
+910,Bagre marinus,skull,Bagre marinus,,
+911,Bagre marinus,dentary,Bagre marinus,dentary,UBERON:0004742
+912,Bagre marinus,dentary,Bagre marinus,dentary,UBERON:0004742
+913,Bagre marinus,occipitals,Bagre marinus,,
+914,Bagre marinus,operculum,Bagre marinus,,
+915,Mugil sp.,vertebrae,Mugil,vertebra,UBERON:0002412
+916,Mugil sp.,operculum,Mugil,,
+917,Mugil sp.,operculum,Mugil,,
+918,Mugil sp.,hyomandibular,Mugil,,
+919,Mugil sp.,hyomandibular,Mugil,,
+920,Sciaenidae,vertebral,Sciaenidae,,
+921,Sciaenidae,dentary,Sciaenidae,dentary,UBERON:0004742
+922,Sciaenidae,dentary,Sciaenidae,dentary,UBERON:0004742
+923,Opsanus beta,skull,Opsanus beta,,
+924,Opsanus beta,vertebra,Opsanus beta,vertebra,UBERON:0002412
+925,Opsanus beta,dentary,Opsanus beta,dentary,UBERON:0004742
+926,Opsanus beta,unidentified,Opsanus beta,unidentified skeletal element,UBERON:0004765
+927,Osteichthyes,unidentified,Osteichthyes,unidentified skeletal element,UBERON:0004765

@@ -7,11 +7,11 @@
   <link rel= "stylesheet" type= "text/css" href="../static/main.css">
 </head>
 
-<body style="background-color: #FDFEFE; color: #262730; font-family: 'Red Hat Text'; font-size:18px;">
+<body style="background-color: #FFF8DC; color: #262730; font-family: 'Red Hat Text'; font-size:18px;">
 
   <nav class="navbar navbar-expand-lg navbar-light">
     <a class="navbar-brand px-3" href="https://hacklytics.io/">
-      <img src="../static/images/square-logo.jpg" alt="" width="62" height="62">
+      <img src="../static/images/zoo-logo.png" alt="" width="62" height="62">
     </a>
     <h1 class="navbar-nav mb-2" style="color: #03A9F4; font-weight: 700;">
       ZooArchNet Data Cleaner
@@ -33,23 +33,26 @@
         </fieldset>
 
         <fieldset class="row mb-3">
-          <legend class="col-form-label col-sm-3 pt-0">Select Cleaning Routine</legend>
+          <legend class="col-form-label col-sm-3 pt-0">Select Routine</legend>
           <div class="col-sm-9">
             <div class="form-check">
               <input class="form-check-input" type="checkbox" name= "verbatim-name" id="linear" value="True" >
-              <label class="form-check-label" for="linear"> Verbatim Species Name </label>
+              <label class="form-check-label" for="linear"> Clean Scientific Name </label>
             </div>
             <div class="form-check">
               <input class="form-check-input" type="checkbox" name= "verbatim-element" id="linear" value="True" >
-              <label class="form-check-label" for="linear"> Verbatim Element Name </label>
+              <label class="form-check-label" for="linear"> Clean Element </label>
             </div>
-            
+            <div class="form-check">
+              <input class="form-check-input" type="checkbox" name= "element-id" id="linear" value="True" >
+              <label class="form-check-label" for="linear"> Add UBERON ID </label>
+            </div>
         </fieldset>
         
 
         <div class="row mb-3">
           <div class="col-sm-3"></div>
-          <button type='submit' class='col-sm-2 btn btn-primary' style="background-color: #03A9F4; border-color: #0277BD;"> Clean </button>
+          <button type='submit' class='col-sm-2 btn btn-primary' style="background-color: #03A9F4; border-color: #03A9F4;"> Clean </button>
         </div>
 
     </form>
